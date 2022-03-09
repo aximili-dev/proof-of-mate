@@ -1,0 +1,10 @@
+{
+  "name": "proof-of-mate",
+  "version": "0.1.0",
+  "description": "SDK for proof-of-mate solana program",
+  "main": "dist/index.js",
+  "repository": "https://github.com/aximili-dev/proof-of-stake.git",
+  "author": "aximili.dev@protonmail.com",
+  "license": "GPL-3.0-or-later",
+  "private": false
+}
